@@ -1,0 +1,3 @@
+[submodule "Java-Text_Analyzer"]
+	path = Java-Text_Analyzer
+	url = git@github.com:jkutkutOrg/Java-Text_Analyzer.git
